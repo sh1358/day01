@@ -1,9 +1,14 @@
 package day01;
 
 public class Test01 {
+	public static void main(String[] args) {
+//		System.out.println("안녕하세요");
+//		System.out.println("반갑습니다");
 
-//집에서 작업	
-//123
-//학원에서 작업	
+		System.out.print("안녕하세요");
+		System.out.print("반갑습니다");
+
+	
+	}
 
 }
